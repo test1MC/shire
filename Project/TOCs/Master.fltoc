@@ -20,6 +20,6 @@
       Link="/Content/Sample Topics/Article2.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Sample Topics/Article3.htm" />
+      Link="/Content/Products/Product A/Article3.htm" />
   </TocEntry>
 </CatapultToc>
