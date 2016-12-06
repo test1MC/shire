@@ -3,7 +3,7 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Welcome.htm" />
+    Link="/Content/Products/Product A/Welcome.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Sample Topics/ChangeLogoInSkin.htm" />
